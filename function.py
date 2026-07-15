@@ -52,7 +52,7 @@ def login(username, password):
 print(login("admin" , "1234"))
 print(login("rahul" , "4321"))
 
-mini calculator using function
+# mini calculator using function
 def calculator(a , b , operator):
     if operator == "+":
         return a+b
