@@ -15,9 +15,9 @@ import math
 
 # 3. Area of circle
 
-# radius = int(input("enter the radius of circle: "))
-# area = math.pi * math.pow(radius,2)
-# print(f"area of circle is: {area} ")
+radius = int(input("enter radius of circle: "))
+area = math.pi * math.pow(radius , 2)
+print(f"area of circle is: {area} ")
 
 # pythogourus theorem
 
@@ -27,7 +27,7 @@ import math
 # print(f"side c is: {c}")
 
 # print circumference of circle 
-radius = float(input("enter the radius: "))
-circumference = 2 * math.pi * radius
-print(f"the circumference is: {circumference}")
+# radius = float(input("enter the radius: "))
+# circumference = 2 * math.pi * radius
+# print(f"the circumference is: {circumference}")
 
